@@ -1,0 +1,24 @@
+{
+  "name": "shalinee_repo",
+  "version": "1.0.0",
+  "description": "shalinee repo",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalineegupta/Shalinee_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalineegupta/Shalinee_repo/issues"
+  },
+  "homepage": "https://github.com/shalineegupta/Shalinee_repo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
